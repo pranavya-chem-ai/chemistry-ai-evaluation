@@ -1,15 +1,38 @@
-## AI Evaluation Example
+## AI Response Evaluation – Chemistry Domain
 
-### Example: pH
+### Example: Beer-Lambert Law
 
-Problem:
-AI said pH measures oxygen → WRONG
+AI Response Issue:
+Incorrectly relates pressure and volume.
 
-Correction:
-pH measures hydrogen ion concentration
+Scientific Reason:
+Beer-Lambert law is based on light absorption, not thermodynamics.
 
-Error Type:
-Factual Error
+Correct Explanation:
+Absorbance is proportional to concentration and path length:
+A = εcl
 
-Rating:
-1/5
+Impact of Error:
+Leads to incorrect interpretation of spectroscopic data.
+
+Rating: 1/5  
+Error Type: Conceptual Error  
+
+---
+
+### Example: Chirality
+
+AI Response Issue:
+Confuses chirality with symmetry.
+
+Scientific Reason:
+Chiral molecules lack internal plane of symmetry.
+
+Correct Explanation:
+They are non-superimposable mirror images.
+
+Impact:
+Important in drug activity and enantiomer behavior.
+
+Rating: 2/5  
+Error Type: Conceptual Error  
