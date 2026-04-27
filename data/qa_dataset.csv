@@ -1,0 +1,4 @@
+Question,AI_Response,Corrected_Response,Rating,Error_Type
+What is pH?,It measures oxygen,pH measures acidity based on hydrogen ion concentration,1/5,Factual Error
+What is UV-Vis?,It measures heat,UV-Vis measures light absorbance for electronic transitions,1/5,Factual Error
+What is catalyst?,It increases temp,Catalyst lowers activation energy,2/5,Conceptual Error
