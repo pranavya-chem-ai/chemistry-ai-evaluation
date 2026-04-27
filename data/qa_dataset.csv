@@ -2,3 +2,8 @@ Question,AI_Response,Corrected_Response,Rating,Error_Type
 What is pH?,It measures oxygen,pH measures acidity based on hydrogen ion concentration,1/5,Factual Error
 What is UV-Vis?,It measures heat,UV-Vis measures light absorbance for electronic transitions,1/5,Factual Error
 What is catalyst?,It increases temp,Catalyst lowers activation energy,2/5,Conceptual Error
+What is Beer-Lambert law?,It relates pressure and volume,Beer-Lambert law states absorbance is proportional to concentration and path length (A = εcl),1/5,Conceptual Error
+What is chirality?,It means symmetry,Chirality refers to non-superimposable mirror images of molecules,2/5,Conceptual Error
+What is HPLC?,It heats samples,HPLC separates and quantifies components in mixtures,1/5,Factual Error
+What is Gibbs free energy?,It is total energy,Gibbs free energy determines spontaneity of reactions (ΔG = ΔH - TΔS),2/5,Conceptual Error
+What is activation energy?,It is product energy,Activation energy is the minimum energy required to start a reaction,2/5,Conceptual Error
