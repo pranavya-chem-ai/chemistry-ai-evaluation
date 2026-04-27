@@ -1,11 +1,23 @@
 # Chemistry AI Evaluation Project
 
-This project demonstrates my ability to evaluate AI-generated responses in chemistry.
+This project demonstrates my ability to evaluate and improve AI-generated responses in chemistry.
 
-## What I do
-- Identify incorrect AI answers
-- Correct them using scientific knowledge
-- Classify errors and rate responses
+## 🔬 Dataset
+- 15+ chemistry questions
+- AI-generated incorrect responses
+- Corrected scientific answers
+- Error classification and rating
 
-## Goal
-To work in AI training and alignment in chemistry domain.
+## 🧠 Evaluation Approach
+Responses are analyzed based on:
+- Scientific accuracy
+- Conceptual clarity
+- Completeness
+
+## ⚠️ Error Types
+- Factual Error
+- Conceptual Error
+- Misleading Explanation
+
+## 🎯 Goal
+To contribute to AI alignment and training in scientific domains, especially chemistry and drug discovery.
